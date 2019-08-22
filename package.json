@@ -1,0 +1,17 @@
+{
+  "name": "temrun",
+  "version": "1.0.0",
+  "description": "Use of multer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Saurabh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^1.19.1"
+  }
+}
